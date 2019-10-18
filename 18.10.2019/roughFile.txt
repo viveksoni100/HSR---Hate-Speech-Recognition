@@ -1,0 +1,34 @@
+Seniors:::::
+======================================================================
+1	:	Introduction
+1.1	: 	A Brief History of Blockchain
+1.2	:	Motivation
+1.3	:	What is HateSpeech?
+1.4	:	Why they're important
+1.5	:	How HateSpeech workds?
+
+2	:	Methodology
+2.1	:	Markle Tree
+2.2	:	What is Hash?
+2.3	:	What is Block?
+2.4	:	What is Mining?
+2.5	:	The Cryptographic puzzle
+2.6	:	What is Proof-of-Work?
+2.7	:	What is Proof of Stake? (PoS)
+2.8	:	Smart Contracts
+2.9	:	What are consensus mechanism?
+2.10	:	What is Game Theory?
+
+3	:	Visual Representation
+
+4	:	Types Of Blockchain
+		- Public Blockchain
+		- Private Blockchain
+		- Consortium or Federated Blockchain
+
+5	:	Application of Blockchain
+
+6	:	Blockchain Based Voting System
+
+conclusion
+======================================================================
