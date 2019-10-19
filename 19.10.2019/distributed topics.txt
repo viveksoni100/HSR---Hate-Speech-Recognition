@@ -1,0 +1,25 @@
+=VIRAL======================================================================================
+1... Introduction
+2... RELATED WORK
+3... WHY STUDY HATE SPEECH AUTOMATIC DETECTION?
+=VIVEK======================================================================================
+4... WHAT IS HATE SPEECH?
+	4.1 Definitions from Several Sources
+	4.2 Our Definition of Hate Speech
+	4.3 Particular Cases and Examples of Hate Speech
+	4.4 Hate Speech and Other Related Concepts
+5... WHAT HAS BEEN DONE SO FAR IN AUTOMATIC HATE SPEECH DETECTION?
+	5.1 Systematic Literature Review
+	5.2 Documents Focusing on Descriptives Statistics about Hate Speech Detection
+	5.3 Documents Focusing on Algorithms for Hate Speech Detection
+	5.4 Text Mining Approaches in Automatic Hate Speech Detection
+	5.5 Main Conclusions from the Systematic Literature Review
+=HARSH======================================================================================
+6... RESOURCES FOR HATE SPEECH CLASSIFICATION
+	6.1 Datasets for Hate Speech Classification
+	6.2 Open Source Projects for Hate Speech Automatic Detection
+7... RESEARCH CHALLENGES AND OPPORTUNITIES
+8... CRITICAL DISCUSSION AND CONCLUSIONS
+============================================================================================
+REFERENCES
+============================================================================================
